@@ -200,7 +200,7 @@ export function LogbookMarketingPage() {
               className="btn btn-secondary"
               href={`${siteLinks.blog}/sars-vehicle-logbook-requirements-explained`}
             >
-              What SARS expects in a vehicle logbook
+              SA vehicle logbook record-keeping basics
             </a>
           </div>
         </section>

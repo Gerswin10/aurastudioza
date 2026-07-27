@@ -5,7 +5,7 @@ export const logbookFeatures = [
   {
     title: "Odometer stops, not GPS",
     description:
-      "Log each stop with your dashboard reading. Business vs private km — clear leg math you can explain to payroll or SARS.",
+      "Log each stop with your dashboard reading. Business vs private km — clear leg math you can explain to payroll or your accountant.",
   },
   {
     title: "Monthly business travel log",
@@ -53,7 +53,7 @@ export const logbookFaqs = [
   {
     question: "Is this SARS-approved?",
     answer:
-      "It helps you keep structured travel records aligned with common SA logbook layouts. It is not endorsed by SARS — verify with your accountant before submission.",
+      "No. Vehicle Logbook is a private record-keeping tool. It is not a SARS product, not SARS-approved, and not endorsed by SARS. Verify any claim with your accountant or a registered tax practitioner.",
   },
   {
     question: "How much does it cost?",

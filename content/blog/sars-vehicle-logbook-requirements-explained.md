@@ -1,10 +1,10 @@
 ---
 slug: sars-vehicle-logbook-requirements-explained
-title: Vehicle Logbook Requirements Explained (+ Free KM Tracker)
-seoTitle: SA Vehicle Logbook Requirements (KM Tracker)
-description: A plain-language checklist for vehicle logbook requirements and km tracking in South Africa — rules vary; confirm with SARS or a practitioner.
+title: Vehicle Logbook Requirements in South Africa (Record-Keeping Basics)
+seoTitle: Vehicle Logbook Requirements South Africa | KM Records
+description: A plain-language checklist for vehicle logbook record-keeping and km tracking in South Africa — not tax advice; confirm with SARS or a practitioner. AuraStudioZa tools are not endorsed by SARS.
 publishedAt: 2026-05-22
-updatedAt: 2026-06-16
+updatedAt: 2026-07-27
 keywords: ["vehicle logbook South Africa", "business km records", "travel allowance", "mileage log freelancer", "odometer logbook"]
 cta:
   eyebrow: Vehicle Logbook

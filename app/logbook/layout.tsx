@@ -9,7 +9,7 @@ export const metadata = pageMetadata({
   path: "/logbook",
   keywords: [
     "Vehicle Logbook",
-    "SARS travel logbook app",
+    "vehicle logbook South Africa",
     "business km log South Africa",
     "odometer logbook PWA",
     "company car logbook SA",
@@ -19,7 +19,7 @@ export const metadata = pageMetadata({
   ],
   openGraphTitle: "Vehicle Logbook — KM Tracker for South African Businesses",
   openGraphDescription:
-    "Log odometer stops, split business vs private km, and export monthly or Mar–Feb tax-year reports. Built for SA company car and travel allowance records.",
+    "Log odometer stops, split business vs private km, and export monthly or Mar–Feb tax-year reports. Built for SA company car and travel allowance records. Not endorsed by SARS.",
 });
 
 export default function LogbookLayout({
